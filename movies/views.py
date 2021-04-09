@@ -65,19 +65,19 @@ def choose_service(request: HttpRequest) -> HttpResponse:
 	
 	if(digits=='1'):
 		vr.say('You are being connected to the nearest Hospital')
-		vr.dial('+918248754430')
+		vr.dial('+91xxxxxxxxxx')
 	
 	elif(digits=='2'):
 		vr.say('You are being connected to the nearest Pharmacy')
-		vr.dial('+918248754430')
+		vr.dial('+91xxxxxxxxxx')
 		
 	elif(digits=='3'):
 		vr.say('You are being connected to the nearest Supermarket')
-		vr.dial('+918248754430')
+		vr.dial('+91xxxxxxxxxx')
 		
 	elif(digits=='4'):
 		vr.say('You are being connected to the nearest Dairy Centre')
-		vr.dial('+918248754430')
+		vr.dial('+91xxxxxxxxxx')
 		
 	else:
 		vr.say(f'You have entered {(digits)}')
