@@ -11,6 +11,8 @@ Based on our survey, many senior citizens from both rural and urban areas and ma
 
 And here in front of you, is the solution.
 
+## How it works?
+
 Helphone simplifies the above mentioned issue by connecting the user straight to the vendor. All the user would have to do is to call the Helpline and then the following happens.
 
 1. Helphone asks for the preferred Language (```Tamil``` or ```English``` or ```Hindi```)
