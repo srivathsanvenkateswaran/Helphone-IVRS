@@ -3,11 +3,11 @@
 
 Helpline for those without Smartphone
 
-Helphone is an IVRS based solution designed to help elders and others without a smartphone.
+Helphone is an IVRS-based solution designed to help elders and others without a smartphone.
 
-It is designed primarily for those who can't use services like Swiggy, Zomato, Pharmeasy and Big Basket to get their required supplies due to either non availability of smartphone or not knowing how to use such apps.
+It is designed primarily for those who can't use services like Swiggy, Zomato, Pharmeasy, and Big Basket to get their required supplies due to either non-availability of a smartphone or not knowing how to use such apps.
 
-Based on our survey, many senior citizens from both rural and urban areas and many of the adults from urban areas weren't comfortable in using the above mentioned services and so, We thought of simplifying the process.
+Based on our survey, many senior citizens from both rural and urban areas and many of the adults from urban areas weren't comfortable in using the above-mentioned services so, We thought of simplifying the process.
 
 And here in front of you, is the solution.
 
